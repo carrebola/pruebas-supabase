@@ -1,6 +1,6 @@
----
-title: Pruebas de conexión a la bd desde proyecto javascript
----
+
+# Pruebas de conexión a la bd desde proyecto javascript
+
 
 Para verificar que somos capaces de conectarnos desde una aplicación basada en javascript a nuestro servicio backend vamos a hacer unas pruebas.
 
